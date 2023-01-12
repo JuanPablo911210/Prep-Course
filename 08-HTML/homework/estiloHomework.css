@@ -1,0 +1,52 @@
+.titulo
+    {
+    color: palegoldenrod ; 
+    }
+
+.titulo2
+{
+    color: gold;
+}
+
+.titulo3
+{
+    color: palegoldenrod;
+}
+
+.divClass
+{
+    color: black;
+}
+
+.img1
+    {
+    width: 400px;
+    }
+
+#thirdDiv
+    {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: solid darkslategray 5px;
+    text-align: center;
+    margin: 0 auto;
+    }
+
+#spanId
+    {
+    font-size: 18px;
+    margin: 50px
+    }
+
+body
+    {
+    margin: 0px;
+    padding: 0px;
+    background: url(https://img.freepik.com/fotos-premium/pizza-cuadrada-casera-queso-mesa-madera-cerca_435174-3383.jpg?w=2000);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    }
+
+       
